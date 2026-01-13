@@ -5,3 +5,4 @@ This REPO IS TO TRACK AND MAKE NOTES AND LEARN MY BASICS OF LINUX
 - launch an ec2 instance
 - select OS as any linux os you like
 - connect your git bash using ssh 
+- Note Terminate the Ec2 instance after using it 
