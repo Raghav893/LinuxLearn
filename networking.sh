@@ -6,3 +6,12 @@
 
 sudo yum install git #This will install git and you can check it using 
 git -v
+
+
+#NOWDAYS dnf is used instead of yum 
+#FOR EXAMPLE TO install java in linux using dnf 
+sudo dnf install maven #it will install both maven and java 17 
+
+#check using 
+java --version 
+
